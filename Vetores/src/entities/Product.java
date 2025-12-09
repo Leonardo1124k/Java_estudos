@@ -1,5 +1,6 @@
 package entities;
-//REFERENTE AO |STUDY2|
+//REFERENTE AO STUDY2
+
 public class Product {
 	
 	private String name;

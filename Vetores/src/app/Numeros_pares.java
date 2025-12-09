@@ -28,7 +28,6 @@ public class Numeros_pares {
 		
 		System.out.println("\nQuantidade de pares = " + quantPares);
 		
-		
 		sc.close();
 	}
 
