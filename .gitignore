@@ -37,8 +37,8 @@ replay_pid*
 .localhistory/
 
 # Eclipse project settings (optional manter alguns)
-.project
-.classpath
+#.project
+#.classpath
 
 # Pasta do Eclipse gerada automaticamente
 .settings/
