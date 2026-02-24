@@ -59,3 +59,6 @@ target/
 *.iml
 .idea/
 out/
+
+# Pasta dos materiais de aulas
+Material_aulas/
