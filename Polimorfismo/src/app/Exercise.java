@@ -22,7 +22,7 @@ public class Exercise {
 		
 		for (int i = 0; i < n; i++) {
 			System.out.println("Dados do produto #" + (i+1) + ": ");
-			System.out.print("Comum, usado ou importado? ");
+			System.out.print("Comum, usado ou importado (c/u/i)? ");
 			char resp = sc.next().charAt(0);
 			if (resp == 'c' || resp == 'u' || resp =='i') {
 				System.out.print("Nome: ");
